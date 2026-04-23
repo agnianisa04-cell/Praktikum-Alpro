@@ -35,7 +35,7 @@ int main () {
     cout << "Rp. 50.000 : " << 50000 % kembalian << endl;
     cout << "Rp. 20.000 : " << 20000 % kembalian << endl;
     cout << "Rp. 10.000 : " << 10000 % kembalian << endl;
-    cout << "Rp. 5.000 : " <<  5000 % kembalian << endl;
+    cout << "Rp. 5.000  : " <<  5000 % kembalian << endl;
     cout << "Rp. 1.000  : " << 1000 % kembalian << endl;
 
 
